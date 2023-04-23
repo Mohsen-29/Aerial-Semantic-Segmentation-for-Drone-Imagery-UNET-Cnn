@@ -1,0 +1,2 @@
+# Aerial-Semantic-Segmentation-for-Drone-Imagery-UNET-Cnn-
+I developed a deep learning model for Aerial Semantic Segmentation of Drone Imagery using a U-Net CNN architecture. The model was trained for 35 epochs, and achieved a training loss of 0.0031 and a mean intersection over union (IOU) score of 0.8110. The model was also evaluated on a validation set, achieving a validation loss of 0.0698 and a mean IOU score of 0.7600. These results indicate that the model has the potential to accurately segment and classify objects in aerial imagery captured by drones.
